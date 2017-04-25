@@ -9,7 +9,7 @@ http://ionicframework.com/
 
 <h4>Sobre o Google Maps API</h4>
 <p>
-https://developers.google.com/maps/?hl=pt-br
+https://developers.google.com/maps/?hl=pt-br <br />
 Para obter uma chave do Google API, acesse a pagina https://developers.google.com/maps/documentation/javascript/get-api-key?hl=pt-br faça seu login e solicite sua chave.
 <br />
 Modifique o arquivo src/index.html (linha 15) e altere YOUR_API_KEY com a chave gerada.
@@ -17,6 +17,6 @@ Modifique o arquivo src/index.html (linha 15) e altere YOUR_API_KEY com a chave 
 
 <h4>Créditos e referencias</h4>
 <p>
-Ionic 2 & 3: How to Use Google Maps & Geolocation
+Ionic 2 & 3: How to Use Google Maps & Geolocation <br />
 https://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/
 </p>
