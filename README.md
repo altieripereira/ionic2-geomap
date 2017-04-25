@@ -16,5 +16,6 @@ Modifique o arquivo src/index.html (linha 15) e altere YOUR_API_KEY com a chave 
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap"></script>
 
 
-Creditos e referencias
+Créditos e referencias
+Ionic 2 & 3: How to Use Google Maps & Geolocation
 https://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/
